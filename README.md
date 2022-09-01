@@ -65,11 +65,11 @@ Assim, qualquer modificação que fizermos vai ficar "assinada" depois.
 
 Para informar o meu nome, por exemplo, escrevo o comando:
 
-```git config user.name="Roger"```
+```git config user.name "nunixxx"```
 
 Para informar o meu email, escrevo:
 
-```git config user.email="roger.silva@canoas.ifrs.edu.br"```
+```git config user.email "caioffnunes__@gmail.com"```
 
 ## Criar um fork e adicionar colaboradores
 
